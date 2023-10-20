@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: #1f2937;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.header div a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.header .logo {
+  font-size: 24px;
+  color: #f9faf8;
+  font-weight: bold;
+  flex: 1;
+  margin-left: 250px;
+}
+
+.header .links {
+  margin-right: 250px;
+  display: flex;
+  gap: 15px;
+}
