@@ -192,3 +192,16 @@ div.information {
   padding-right: 20px;
   border-radius: 10px;
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1F2937;
+}
+
+.footer .copyright {
+  color: #E5E7EB;
+  margin: 30px auto;
+  font-size: 18px;
+}
